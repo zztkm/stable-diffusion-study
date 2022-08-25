@@ -6,7 +6,7 @@
 
 Stable Diffusion を Windows 11 で実行するための内容になっているのでそれ以外の環境での動作保証はできません。
 
-なお、CUDA
+`requirements.txt` はzztkmの環境で動いたものですので使わないようにしてください。
 
 ## 実行前の準備
 
